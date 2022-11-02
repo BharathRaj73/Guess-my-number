@@ -3,7 +3,7 @@
 **This is a demo game implemented using HTML, CSS, Javascript**
 
 You have to guess a number between 1 to 20
-if you predict the number ewual to the "SECRET NUMBER"
+if you predict the number equal to the "SECRET NUMBER"
 You win the game!
 
 **Rules:**
